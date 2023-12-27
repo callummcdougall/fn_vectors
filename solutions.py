@@ -23,7 +23,7 @@ from nnsight import LanguageModel
 from nnsight.intervention import InterventionProxy
 
 from plotly_utils import imshow
-import part5_function_vectors_and_model_steering.tests as tests
+import tests
 
 N_LAYERS = 28
 N_HEADS = 16
